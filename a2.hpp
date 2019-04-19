@@ -56,7 +56,7 @@ public:
     /**
     * Method insert() is the powerhouse of the class. Its purpose is to take a signed char and insert
     * it into the array while ensuring that at the end of the array is sorted in ascending order.
-    * Each time a new element is inserted to the array, once insert completes the array must be in
+    * Each time a new element is inserted to the array, insert completes the array will be in a
     * sorted state.
     */
     void insert(signed char c){
